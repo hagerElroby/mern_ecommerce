@@ -4,8 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+<<<<<<< HEAD
     "start": "start index.js",
    "build:"no building"
+=======
+    "start": "node index.js"
+>>>>>>> efc2e20eeee55cbe4d32936781f18845a1f33f5e
   },
   "keywords": [],
   "author": "",
